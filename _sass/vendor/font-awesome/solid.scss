@@ -16,6 +16,20 @@
   url('#{$fa-font-path}/fa-solid-900.svg#fontawesome') format('svg');
 }
 
+@font-face {
+    font-family: 'Lato';
+    src: url('#{$fa-font-path}/Lato-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Bold';
+    src: url('#{$fa-font-path}/Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 .fa,
 .fas {
   font-family: 'Font Awesome 5 Free';

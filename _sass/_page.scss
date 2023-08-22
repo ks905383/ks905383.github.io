@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  color: $header-gray;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -152,6 +153,7 @@
 
     .page__title {
       font-size: $type-size-2;
+      color: $light-gray;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
