@@ -15,7 +15,7 @@ See my [full](../../files/schwarzwald_fullcv_2308.pdf) or [efficient](../../file
 
 Education
 ======
-* Bachelor of the Arts (A.B.) in Physics, Public Policy (concentration in Economcis), University of Chicago, 2015
+* Bachelor of the Arts (A.B.) in Physics, Public Policy (concentration in Economics), University of Chicago, 2015
 * Master of Law in China Studies (concentration in Politics and International Relations), Yenching Academy, Peking University, 2017
 * Ph.D in Earth and Environmental Sciences, Columbia University, 2024 (expected)
 
