@@ -11,23 +11,11 @@ header:
 
 {% include base_path %}
 
-See my [full]() or [efficient]() CV. 
+See my [full](../../files/schwarzwald_fullcv_2308.pdf) or [efficient](../../files/schwarzwald_midcv_2308.pdf) CV. 
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+Selected Publications
+=====
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
