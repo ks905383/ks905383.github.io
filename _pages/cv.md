@@ -11,7 +11,7 @@ header:
 
 {% include base_path %}
 
-See my [full](../../files/schwarzwald_fullcv_2308.pdf) or [efficient](../../files/schwarzwald_midcv_2308.pdf) CV. 
+See my [full](../../files/schwarzwald_cv_full.pdf) or [efficient](../../files/schwarzwald_cv.pdf) CV. 
 
 Education
 ======
