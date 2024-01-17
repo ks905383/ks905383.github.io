@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an interdisciplinary climate scientist helping inform climate impacts projections and decision-making under uncertainty. I'm a PhD student in Columbia's University's Department of Earth and Environmental Sciences, working with Richard Seager (and previously [Lisa Goddard](https://www.nytimes.com/2022/01/22/climate/lisa-goddard-dead.html)) at Lamont-Doherty Earth Observatory and the International Research Institute for Climate and Society ([IRI](iri.columbia.edu)). 
+I'm an interdisciplinary climate scientist helping inform climate impacts projections and decision-making under uncertainty. I'm a PhD candidate in Columbia's University's Department of Earth and Environmental Sciences, working with Richard Seager (and previously [Lisa Goddard](https://www.nytimes.com/2022/01/22/climate/lisa-goddard-dead.html)) at Lamont-Doherty Earth Observatory and the International Research Institute for Climate and Society ([IRI](iri.columbia.edu)). 
 
 I'm currently studying the drivers of the long and short rains in East Africa, internal variability in climate models, and the sensitivity of climate impact projections to uncertainty in climate data. I've [found](https://www.pnas.org/doi/abs/10.1073/pnas.2208095119) that climate impact projections need to incorporate the 'internal' variability of the climate to avoid underestimating tail risks, that both oceanic and atmospheric biases are [causing](https://link.springer.com/article/10.1007/s00382-022-06622-5) climate models to poorly simuate the rainfall in East Africa, but also that better understanding the region's fundamental dynamics [can help us](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0126.1/JCLI-D-23-0126.1.xml) better prepare for the future. 
 
