@@ -18,9 +18,13 @@ I'm a Paris-born Austrian who's also felt at home in Los Angeles, Chicago, Beiji
 
 Recent news
 ======
-_10/2024_ - I'll be joining the [Como Summer School on Compound Events](https://drive.google.com/file/d/1mpK3l-ZNc5LEBmUp-0uaK_yRepNwh5fm/view) as a supervisor for a project on projections of compound extremes. 
+_10/2024_ - I joined the [Como Summer School on Compound Events](https://drive.google.com/file/d/1mpK3l-ZNc5LEBmUp-0uaK_yRepNwh5fm/view) team as a supervisor for a project on projections of compound extremes. 
+
+_10/2024_ - I had a great time visiting the Oxford School of Geography and the Environment to give a talk on recent developments in East African climate research, and greatly appreciated the change to exchange ideas on improving climate forecasts and projections in the region. 
 
 _09/2024_ - I started a Columbia Climate School Postdoctoral position, working on uncertainty in projections of climate impacts. 
+
+_07/2024_ - I visited the Max-Planck-Institut für Meteorologie in Hamburg, and presented on recent research on East African rainfall. 
 
 _04/2024_ - Catch me at the 2024 EGU Annual Meeting in Vienna, [presenting](https://meetingorganizer.copernicus.org/EGU24/EGU24-4687.html) on trends in the East African long rains!
 
