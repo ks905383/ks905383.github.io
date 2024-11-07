@@ -20,7 +20,7 @@ One of the nice things about the `xarray` docs (and that of many other high-qual
 ![accessing xarray source code](devsit0-01fig1.png)
 
 ## Creating a module-wide settings function
-The reason we can set module-wide options is because variables that are declared in a module (not inside a function) are _global to that modue_. So, for example, in the following file: 
+The reason we can set module-wide options is because variables that are declared in a module (not inside a function) are _global to that module_. So, for example, in the following file: 
 
 ```
 # File module/scripts1.py
